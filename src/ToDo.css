@@ -47,6 +47,9 @@ li.ui-state-default:last-child {
 #checkAll {
     margin-top: 10px;
 }
+#not-done li{
+    margin: 10px 0;
+}
 
 .no-padding {
     padding-left: 0;
